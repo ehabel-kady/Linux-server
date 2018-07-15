@@ -11,5 +11,5 @@ This is the last project for udacity fullstack web developer nanodegree which is
 - made updates to all my packages
 - configured ngnix server to run from port 80 
 - initialized a service for my app
-- installed `Apache2`,`mod_wsgi`,`postgresql`,`Flask`,`httplib2`, `oauth2client`, `sqlalchemy`, `psycopg2`, `sqlalchemy_utils`
+- installed `Apache2`,`mod_wsgi`,`postgresql`,`Flask`,`httplib2`, `oauth2client`, `sqlalchemy`, `psycopg2`, `sqlalchemy_utils`,`nginx`,`uwsgi`
 - you can login to the server by putting this command `ssh grader@167.99.84.120 -p 2200  -i ~/.ssh/id_rsa`
